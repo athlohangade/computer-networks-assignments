@@ -17,7 +17,7 @@ For fixed length subnet masking, the program takes input an IP address and the n
 
 ![Fixed Length Subnet Masking](images/fixed_subnets.png)
 
-For variable length subnet masking, the program takes input an IP address and the number of subnets user wants. Here, the number of subnets need not be a power of 2. Further, the program also ask user to input the number of hosts required in each subnet. The output of the program is (Subnet-mask, Subnet-ID, Broadcast-ID) for each subnet.
+For variable length subnet masking, the program takes input an IP address and the number of subnets user wants. Here, the number of subnets need not be a power of 2. Further, the program also ask user to input the number of hosts required in each subnet. The output of the program is (Subnet-mask, Subnet-ID, Broadcast-ID) for each subnet. Refer the below image :
 
 ![Variable Length Subnet Masking](images/variable_subnets.png)
 
